@@ -1,4 +1,4 @@
-# Lucky Numbers (Expo)
+# Your Lucky Numbers (Expo)
 
 Daily lucky numbers for PCSO Lotto 6/42, Mega Lotto 6/45, Super Lotto 6/49,
 Grand Lotto 6/55 and Ultra Lotto 6/58.
