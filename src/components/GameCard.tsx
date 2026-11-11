@@ -13,7 +13,7 @@ type Props = {
   drawKey: string;
   theme: Theme;
   variant: 'tonight' | 'other';
-  drawLabel: string; // e.g. "Tonight · 9 PM" or "Next draw: Fri"
+  drawLabel: string; // e.g. "Tonight · 9 PM" or "Next draw: Fri
 };
 
 export function GameCard({ game, numbers, index, drawKey, theme, variant, drawLabel }: Props) {
